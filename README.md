@@ -9,7 +9,4 @@ Hey I'm Nick, a passionate computer science undergrad at The University of Alaba
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melvinczyk&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinczyk&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=melvinczyk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
