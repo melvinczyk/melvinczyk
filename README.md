@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I'm Nick, a passionate computer science undergrad at The University of Alabama at Birmingham.
+Hey I'm Nick, a computer science undergrad at The University of Alabama at Birmingham.
 
 
 # 💻 Tech Stack:
